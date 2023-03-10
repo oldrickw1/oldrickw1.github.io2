@@ -31,6 +31,9 @@
 
 })(jQuery);
 
+console.log("THIS WORKS");
+let a = 4;
+
 let slideIndex = 1;
 showSlides(slideIndex);
 
